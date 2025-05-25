@@ -1,0 +1,8 @@
+<form id="regForm">
+  <input name="name" placeholder="Name">
+  <input name="email" type="email" placeholder="Email">
+  <select name="event">
+    <option value="Music Jam">Music Jam</option>
+  </select>
+  <button type="submit">Register</button>
+</form>
