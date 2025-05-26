@@ -1,4 +1,4 @@
-Objective: Understand different CSS inclusion methods.
+
 
 Inline Style (Directly in element):
 
@@ -27,14 +27,14 @@ styles.css Example with Comments:
 #mainHeader {
     background-color: #333;
     color : white;
-    text-align: center;
-    padding : 10px;
+    text-align : center;
+    padding : 10 px;
 }
 
 /* Navigation styles */
 .nav-menu {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 20 px;
     justify-content: center;
 }
