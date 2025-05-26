@@ -26,9 +26,9 @@ styles.css Example with Comments:
 /* Header styles */
 #mainHeader {
     background-color: #333;
-    color: white;
+    color : white;
     text-align: center;
-    padding: 10px;
+    padding : 10px;
 }
 
 /* Navigation styles */
